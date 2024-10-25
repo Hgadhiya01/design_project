@@ -1,0 +1,4 @@
+PassengerAppRoot /home/pasonews/bettyburgerdome.online
+PassengerPython /usr/bin/python3
+PassengerAppType wsgi
+PassengerStartupFile passenger_wsgi.py
